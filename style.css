@@ -242,10 +242,10 @@ ul.lang-list {
   margin-top: 15px;
 }
 
-.project-link{
-  display:inline-block;
-  margin-left:10px;
-  
+a.project-link {
+    margin-right: 15px;
+    margin-top: 10px;
+    display: inline-block;
 }
 
 
