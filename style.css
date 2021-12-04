@@ -242,6 +242,14 @@ ul.lang-list {
   margin-top: 15px;
 }
 
+.project-link{
+  display:inline-block;
+  margin-left:10px;
+  
+}
+
+
+
 .right-bg {
   position: absolute;
   width: 110%;
