@@ -220,6 +220,9 @@ h3 {
 .javascript-percent::before {
   width: 27% !important;
 }
+.jquery-percent::before {
+  width: 57% !important;
+}
 .ps-percent::before {
   width: 47% !important;
 }
@@ -243,12 +246,10 @@ ul.lang-list {
 }
 
 a.project-link {
-    margin-right: 15px;
-    margin-top: 10px;
-    display: inline-block;
+  margin-right: 15px;
+  margin-top: 10px;
+  display: inline-block;
 }
-
-
 
 .right-bg {
   position: absolute;
