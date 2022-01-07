@@ -244,11 +244,20 @@ h3 {
 ul.lang-list {
   margin-top: 15px;
 }
-
+.project {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.project strong {
+  width: 100%;
+}
 a.project-link {
   margin-right: 15px;
   margin-top: 10px;
   display: inline-block;
+  color: #000;
+  flex-basis: 46%;
 }
 
 .right-bg {
