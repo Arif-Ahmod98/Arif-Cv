@@ -9,6 +9,19 @@ body {
   font-family: "Open Sans", sans-serif;
   padding: 50px 0px;
 }
+/* WATERMARK */
+.watermark {
+  width: 635px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 0px) rotate(-25deg);
+  z-index: 0;
+  font-size: 85px;
+  color: #00000012;
+  font-family:  system-ui;;
+  font-style: italic;
+}
 .container {
   width: 75%;
   margin: auto;
