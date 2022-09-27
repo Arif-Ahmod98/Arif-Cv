@@ -257,19 +257,19 @@ h3 {
 }
 
 .css-percent::before {
-  width: 81% !important;
+  width: 94% !important;
 }
 
 .bootsrap-percent::before {
-  width: 57% !important;
+  width: 91% !important;
 }
 
 .javascript-percent::before {
-  width: 72% !important;
+  width: 84% !important;
 }
 
 .jquery-percent::before {
-  width: 60% !important;
+  width: 86% !important;
 }
 
 .ps-percent::before {
